@@ -1,0 +1,312 @@
+{
+  "version": "draft-1.0",
+  "cultures": {
+    "Pakistan": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Japan": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Germany": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "United States": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "China": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Australia": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "UK": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Saudi Arabia": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Egypt": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Brazil": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Mexico": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "South Africa": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "France": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    },
+    "Greece": {
+      "status": "missing",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": null,
+        "Indulgence": null
+      },
+      "source": null,
+      "license": null
+    }
+  },
+  "criteria": {},
+  "dimension_weights": {
+    "Power Distance": 1,
+    "Individualism/Collectivism": 1,
+    "Masculinity/Achievement Orientation": 1,
+    "Uncertainty Avoidance": 1,
+    "Long-Term Orientation": 1,
+    "Indulgence": 1
+  },
+  "templates": {
+    "deadline": {
+      "id": "deadline",
+      "context": "Workplace",
+      "status": "unreviewed",
+      "source": "Supplied PRD v2.0 \u00a725; expanded fictional constraints by implementer",
+      "title": "Raise a concern about a two-week deadline",
+      "brief": "In a project meeting, your senior manager proposes shipping in two weeks. Testing needs three weeks, and skipping it could create quality risks. Raise your concern and agree on a feasible plan.",
+      "character": "A senior manager who values a credible delivery plan and respectful, evidence-based discussion. This is one fictional individual, not a representative of the selected culture.",
+      "objective": "Make the schedule risk visible while seeking a practical agreement.",
+      "constraints": [
+        "Testing requires three weeks.",
+        "The proposed deadline is two weeks.",
+        "No new staff are available.",
+        "The manager can negotiate scope or phased delivery."
+      ],
+      "candidate_dimensions": [
+        "Power Distance",
+        "Uncertainty Avoidance",
+        "Long-Term Orientation"
+      ],
+      "opening": "We have a plan to complete this project within two weeks. What are your thoughts?",
+      "prompts": [
+        "What is the specific risk to delivery?",
+        "Which testing tasks need more time?",
+        "What alternative can we offer the client?",
+        "How would a phased delivery work?",
+        "What do we lose if we reduce scope?",
+        "What can your team commit to reliably?",
+        "How should we communicate this risk?",
+        "What checkpoint would help us stay on track?",
+        "What happens if testing finds a critical defect?",
+        "How do we protect the team from overcommitment?",
+        "What trade-off would you refuse?",
+        "How could we verify your estimate?",
+        "How do we handle conflicting stakeholder priorities?",
+        "What is your final recommendation?"
+      ]
+    },
+    "group_project": {
+      "id": "group_project",
+      "context": "University",
+      "status": "unreviewed",
+      "source": "Implementer-created contrasting fictional demonstration; not culture-specific evidence",
+      "title": "Agree on responsibilities in a group project",
+      "brief": "A university group project is due in ten days. A teammate is overloaded and the division of work is unclear. Request assistance and agree on responsibilities while protecting your own workload.",
+      "character": "A fellow student who wants to contribute but has competing coursework. This fictional individual is not representative of any nationality.",
+      "objective": "Agree on a fair division of work with explicit next steps.",
+      "constraints": [
+        "The project is due in ten days.",
+        "Both students have other coursework.",
+        "Tasks may be split but the deadline is fixed.",
+        "Neither person must accept an unreasonable workload."
+      ],
+      "candidate_dimensions": [
+        "Individualism/Collectivism",
+        "Uncertainty Avoidance"
+      ],
+      "opening": "I have other deadlines this week and cannot take all the research tasks. How should we divide the work?",
+      "prompts": [
+        "Which tasks can you handle?",
+        "What help would be most useful?",
+        "How should we split the research?",
+        "How will we check the quality?",
+        "What if one of us falls behind?",
+        "When should we check in?",
+        "How can we protect time for other classes?",
+        "What agreement can we make today?",
+        "How should we resolve a disagreement?",
+        "What can we deprioritize?",
+        "How do we share credit fairly?",
+        "What should we tell our tutor?",
+        "What is a reasonable boundary?",
+        "Can you summarize our next steps?"
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "id": "concern",
+      "title": "Raise a concern with evidence",
+      "status": "unreviewed",
+      "source": "Supplied PRD v2.0 \u00a725; general coaching adaptation",
+      "content": "State the goal you share, the specific risk, and the evidence behind your concern. Offer an option and invite discussion. Direct and indirect approaches can both be respectful. You do not need to hide a valid concern to show respect. Example: \u201cTesting needs three weeks. I am concerned about the two-week commitment. Could we discuss a phased release?\u201d",
+      "dimensions": [
+        "Power Distance",
+        "Uncertainty Avoidance"
+      ]
+    },
+    {
+      "id": "agreement",
+      "title": "Turn discussion into an agreement",
+      "status": "unreviewed",
+      "source": "Supplied PRD v2.0 \u00a7\u00a714,18,24; implementer general coaching",
+      "content": "Clarify who will do what, when you will check in, and which risks need escalation. Ask whether the other person has capacity. Protect legitimate boundaries and revisit assumptions. An agreement needs shared understanding, not one memorized phrase.",
+      "dimensions": [
+        "Individualism/Collectivism",
+        "Long-Term Orientation"
+      ]
+    },
+    {
+      "id": "variation",
+      "title": "Understand dimensions without stereotyping",
+      "status": "unreviewed",
+      "source": "Supplied PRD v2.0 \u00a7\u00a710,18,28",
+      "content": "Dimensions describe broad tendencies, not personality. Power Distance concerns hierarchy; Individualism/Collectivism concerns social interdependence; Uncertainty Avoidance concerns ambiguity; Long-Term Orientation concerns time horizons; Indulgence concerns gratification and restraint. The legacy Masculinity/Achievement Orientation label concerns competition and achievement versus care and quality of life, not gender-based expectations. These concepts do not establish country values or determine an individual\u2019s behavior.",
+      "dimensions": [
+        "Power Distance",
+        "Individualism/Collectivism",
+        "Masculinity/Achievement Orientation",
+        "Uncertainty Avoidance",
+        "Long-Term Orientation",
+        "Indulgence"
+      ]
+    }
+  ]
+}

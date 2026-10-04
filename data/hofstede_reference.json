@@ -1,0 +1,170 @@
+{
+  "version": "hofstede-original-2015-12-08-0-100",
+  "source": "https://geerthofstede.com/research-and-vsm/dimension-data-matrix/",
+  "download_url": "https://geerthofstede.com/wp-content/uploads/2016/08/6-dimensions-for-website-2015-12-08-0-100.csv",
+  "retrieved_at": "2026-10-04",
+  "source_sha256": "4b2a63142090f69afcb99cb428358be5dcc386ee78fb4944ba278fa4f78aa96d",
+  "use_terms": "Researchers may use without asking permission; contact the source for commercial use. No blanket commercial license asserted.",
+  "limitations": [
+    "National-level reference values, not individual personality measurements.",
+    "The original source has partial country-specific coverage for Egypt, Saudi Arabia and South Africa; regional aggregate values are never substituted.",
+    "UK uses the source label Great Britain; this is not a separate measurement of every UK constituent nation.",
+    "This is the source-provided bounded 0\u2013100 variant: Greece Uncertainty Avoidance is 100 rather than the unbounded 112."
+  ],
+  "countries": {
+    "Pakistan": {
+      "source_country": "Pakistan",
+      "scores": {
+        "Power Distance": 55,
+        "Individualism/Collectivism": 14,
+        "Masculinity/Achievement Orientation": 50,
+        "Uncertainty Avoidance": 70,
+        "Long-Term Orientation": 50,
+        "Indulgence": 0
+      }
+    },
+    "Japan": {
+      "source_country": "Japan",
+      "scores": {
+        "Power Distance": 54,
+        "Individualism/Collectivism": 46,
+        "Masculinity/Achievement Orientation": 95,
+        "Uncertainty Avoidance": 92,
+        "Long-Term Orientation": 88,
+        "Indulgence": 42
+      }
+    },
+    "Germany": {
+      "source_country": "Germany",
+      "scores": {
+        "Power Distance": 35,
+        "Individualism/Collectivism": 67,
+        "Masculinity/Achievement Orientation": 66,
+        "Uncertainty Avoidance": 65,
+        "Long-Term Orientation": 83,
+        "Indulgence": 40
+      }
+    },
+    "United States": {
+      "source_country": "U.S.A.",
+      "scores": {
+        "Power Distance": 40,
+        "Individualism/Collectivism": 91,
+        "Masculinity/Achievement Orientation": 62,
+        "Uncertainty Avoidance": 46,
+        "Long-Term Orientation": 26,
+        "Indulgence": 68
+      }
+    },
+    "China": {
+      "source_country": "China",
+      "scores": {
+        "Power Distance": 80,
+        "Individualism/Collectivism": 20,
+        "Masculinity/Achievement Orientation": 66,
+        "Uncertainty Avoidance": 30,
+        "Long-Term Orientation": 87,
+        "Indulgence": 24
+      }
+    },
+    "Australia": {
+      "source_country": "Australia",
+      "scores": {
+        "Power Distance": 38,
+        "Individualism/Collectivism": 90,
+        "Masculinity/Achievement Orientation": 61,
+        "Uncertainty Avoidance": 51,
+        "Long-Term Orientation": 21,
+        "Indulgence": 71
+      }
+    },
+    "UK": {
+      "source_country": "Great Britain",
+      "scores": {
+        "Power Distance": 35,
+        "Individualism/Collectivism": 89,
+        "Masculinity/Achievement Orientation": 66,
+        "Uncertainty Avoidance": 35,
+        "Long-Term Orientation": 51,
+        "Indulgence": 69
+      }
+    },
+    "Saudi Arabia": {
+      "source_country": "Saudi Arabia",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": 36,
+        "Indulgence": 52
+      }
+    },
+    "Egypt": {
+      "source_country": "Egypt",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": 7,
+        "Indulgence": 4
+      }
+    },
+    "Brazil": {
+      "source_country": "Brazil",
+      "scores": {
+        "Power Distance": 69,
+        "Individualism/Collectivism": 38,
+        "Masculinity/Achievement Orientation": 49,
+        "Uncertainty Avoidance": 76,
+        "Long-Term Orientation": 44,
+        "Indulgence": 59
+      }
+    },
+    "Mexico": {
+      "source_country": "Mexico",
+      "scores": {
+        "Power Distance": 81,
+        "Individualism/Collectivism": 30,
+        "Masculinity/Achievement Orientation": 69,
+        "Uncertainty Avoidance": 82,
+        "Long-Term Orientation": 24,
+        "Indulgence": 97
+      }
+    },
+    "South Africa": {
+      "source_country": "South Africa",
+      "scores": {
+        "Power Distance": null,
+        "Individualism/Collectivism": null,
+        "Masculinity/Achievement Orientation": null,
+        "Uncertainty Avoidance": null,
+        "Long-Term Orientation": 34,
+        "Indulgence": 63
+      }
+    },
+    "France": {
+      "source_country": "France",
+      "scores": {
+        "Power Distance": 68,
+        "Individualism/Collectivism": 71,
+        "Masculinity/Achievement Orientation": 43,
+        "Uncertainty Avoidance": 86,
+        "Long-Term Orientation": 63,
+        "Indulgence": 48
+      }
+    },
+    "Greece": {
+      "source_country": "Greece",
+      "scores": {
+        "Power Distance": 60,
+        "Individualism/Collectivism": 35,
+        "Masculinity/Achievement Orientation": 57,
+        "Uncertainty Avoidance": 100,
+        "Long-Term Orientation": 45,
+        "Indulgence": 50
+      }
+    }
+  }
+}

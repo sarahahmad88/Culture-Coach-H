@@ -1,0 +1,24 @@
+[
+  {
+    "cultural group": "Japanese",
+    "context": "workplace project meeting",
+    "context_tags": ["Workplace"],
+    "goal": "raise a concern",
+    "relation": "junior employee to senior manager",
+    "actor": "a fictional employee",
+    "actor_behavior": "explains a schedule concern with specific project evidence",
+    "recipient": "a fictional senior manager",
+    "agreement": null
+  },
+  {
+    "cultural group": "American",
+    "context": "university group project",
+    "context_tags": ["University"],
+    "goal": "request assistance",
+    "relation": "student to fellow student",
+    "actor": "a fictional student",
+    "actor_behavior": "asks for help while making the proposed division of work explicit",
+    "recipient": "a fictional teammate",
+    "agreement": null
+  }
+]

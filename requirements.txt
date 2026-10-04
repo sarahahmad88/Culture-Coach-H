@@ -1,0 +1,14 @@
+-c constraints.txt
+streamlit==1.49.1
+crewai==1.1.0
+groq==0.32.0
+pydantic==2.11.9
+supabase==2.19.0
+# UI release compatible with the existing Streamlit 1.49 runtime (pre-V2 API).
+streamlit-shadcn-ui==0.1.19
+streamlit-extras==0.5.5
+plotly==6.3.0
+altair==5.5.0
+
+# Gemini OpenAI-compatible fallback transport.
+openai==1.109.1
